@@ -1,7 +1,5 @@
 # Dashboard - ATP and WTA World Number One
 
-## How it looks
-
 ## What was done
 - created an interactive dashboard using a .csv dataset sourced from Tableau Public
 - analyzed data using a pivot table and aggregate functions (Max, Average) to calculate key player
